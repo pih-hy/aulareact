@@ -11,7 +11,7 @@ Localizado no Sul, Santa Catarina é famoso por sua indústria, especialmente t�
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src="SC.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

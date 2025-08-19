@@ -11,7 +11,7 @@ Localizado no Nordeste, o Ceará é famoso por suas praias paradisíacas, como J
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src="CE.jpg" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

@@ -11,7 +11,7 @@ No Norte, Rondônia tem grande parte de sua economia voltada para a agropecuári
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src=".png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

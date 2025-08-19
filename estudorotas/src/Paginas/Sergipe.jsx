@@ -11,7 +11,7 @@ O menor estado do Brasil, Sergipe é conhecido por suas belas praias e pela capi
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src="SER.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

@@ -11,7 +11,7 @@ Situado no Centro-Oeste, Tocantins é conhecido pela biodiversidade e pelo Parqu
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src="TO.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

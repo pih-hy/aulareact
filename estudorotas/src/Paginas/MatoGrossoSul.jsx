@@ -12,7 +12,7 @@ Vizinho de Mato Grosso, é famoso pelo Pantanal, a maior planície alagada do mu
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src="MGS.jpg" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

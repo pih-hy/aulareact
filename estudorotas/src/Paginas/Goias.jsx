@@ -10,7 +10,7 @@ Localizado no Centro-Oeste, Goiás é conhecido por sua agricultura e pelo cerra
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src="GO.webp" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

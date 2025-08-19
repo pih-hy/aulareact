@@ -11,7 +11,7 @@ A Bahia é um dos estados mais culturais do Brasil, sendo berço do samba, do ax
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src="BH.jpg" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

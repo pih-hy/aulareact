@@ -11,7 +11,7 @@ Famoso pelo frevo, maracatu e pelo Carnaval de Recife, Pernambuco tem uma rica c
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src=".png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

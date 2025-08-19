@@ -10,7 +10,7 @@ Com a maior parte da Amazônia, o Amazonas é o estado mais extenso do Brasil e 
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src="AM.webp" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

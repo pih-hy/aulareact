@@ -11,7 +11,7 @@ No Sul, o Rio Grande do Sul tem uma forte influência europeia, especialmente da
 </p>
 <hr></hr>
 <p>
-    <img src="ES.png" />
+    <img src=".png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>
