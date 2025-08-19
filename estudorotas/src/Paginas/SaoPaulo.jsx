@@ -12,7 +12,7 @@ mundo e oferece uma vasta gama de eventos, gastronomia e arte.<br></br> A metró
 </p>
 <hr></hr>
 <p>
-    <img src="" />
+    <img src="SP.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>
