@@ -11,7 +11,10 @@ No Norte, o Pará é um dos maiores produtores de cacau e açaí, além de ser u
 </p>
 <hr></hr>
 <p>
+
     <img src="para.png" />
+
+    
 </p>
 <p>
     <a href="/">Voltar para Home</a>
