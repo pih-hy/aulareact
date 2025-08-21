@@ -12,7 +12,7 @@ No Nordeste, o Maranhão tem uma cultura rica e uma gastronomia diversificada, c
 </p>
 <hr></hr>
 <p>
-    <img src=".png" />
+    <img src="maranhao.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

@@ -13,7 +13,7 @@ Situado no Nordeste, Alagoas é famoso por suas belas praias, como as de Maceió
 </p>
 <hr></hr>
 <p>
-    <img src="\.png" />
+    <img src="\alag.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

@@ -11,7 +11,7 @@ Situado no Nordeste, a Paraíba tem praias maravilhosas, como as de João Pessoa
 </p>
 <hr></hr>
 <p>
-    <img src=".png" />
+    <img src="PARAIBA.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

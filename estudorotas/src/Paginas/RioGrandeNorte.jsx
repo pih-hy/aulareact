@@ -13,7 +13,7 @@ No Nordeste, o Rio Grande do Norte é famoso pelas dunas e praias de Natal.<br><
 </p>
 <hr></hr>
 <p>
-    <img src=".png" />
+    <img src="RGN.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>
