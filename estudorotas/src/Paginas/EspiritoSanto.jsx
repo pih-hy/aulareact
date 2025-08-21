@@ -13,7 +13,7 @@ O Espírito Santo, localizado no Sudeste do Brasil, é conhecido por suas belas 
 </p>
 <hr></hr>
 <p>
-    <img src=".png" />
+    <img src="santo.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

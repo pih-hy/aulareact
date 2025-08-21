@@ -13,7 +13,7 @@ Localizado no Norte, o Acre é conhecido por sua rica biodiversidade e pela cult
 </p>
 <hr></hr>
 <p>
-    <img src=".png" />
+    <img src="acre.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>

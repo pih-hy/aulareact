@@ -11,7 +11,7 @@ Boa Vista, a capital, é um centro urbano em crescimento. <br></br>O estado tem 
 </p>
 <hr></hr>
 <p>
-    <img src=".png" />
+    <img src="ro.png" />
 </p>
 <p>
     <a href="/">Voltar para Home</a>
