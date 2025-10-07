@@ -10,7 +10,7 @@ export default function Exercicio1()
     let quadrado = Number(numero) *  Number(numero);
     let cubo = quadrado * Number(numero);
 
-    setResultado("O quadrado é" + quadrado + " o cubo é " + cubo);
+    setResultado(" O quadrado é  " + quadrado + "  o cubo é  " + cubo);
   }
 
     return (
@@ -29,7 +29,7 @@ export default function Exercicio1()
             onChange={(e) => setNumero (e.target.value)} />
           </p>
           <p>
-            <input type="button" value="Exercicio 1" 
+            <input type="button" value="calcular" 
             onClick={calcular}/>
           </p>
           <p>

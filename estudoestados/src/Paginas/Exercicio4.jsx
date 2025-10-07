@@ -1,16 +1,27 @@
-export default function Exercicio4()
+import { useState } from "react";
+export default function Exercicio4() 
 {
-    return (
-        <div>
-            <h1>Exercicio 4 </h1>
-    
+
+  const [base, setBase] = useState();
+  const [altura, setAltura] = useState();
+  const [resultado, setResultado] = useState();
+
+
+  function calcular() {
+    let triangulo = (Number(altura))
+    setResultado (triangulo);
+  }
+  return (
+    <div>
+      <h1>Exercicio 4 </h1>
+
       <div className="conteudo">
-        
+
         <h3>Medidas</h3>
 
-        
+
         <form>
-          
+
           <p>
             Digite o valor da base:<br />
             <input type="text" />
@@ -25,7 +36,7 @@ export default function Exercicio4()
           </p>
           <a href="/">Voltar</a>
         </form>
-        </div>
-        </div>
-    );
+      </div>
+    </div>
+  );
 }
