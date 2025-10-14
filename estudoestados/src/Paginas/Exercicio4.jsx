@@ -8,7 +8,8 @@ export default function Exercicio4()
 
 
   function calcular() {
-    let triangulo = (Number(altura))
+    let triangulo = (Number(altura) * base/2)
+
     setResultado (triangulo);
   }
   return (
@@ -24,15 +25,21 @@ export default function Exercicio4()
 
           <p>
             Digite o valor da base:<br />
-            <input type="text" />
+            <input type="text" value={base}
+            onChange={(e) => setBase (e.target.value)}/>
           </p>
 
           <p>
             Digite o valor da altura:<br />
-            <input type="text" />
+            <input type="text" value={altura}
+            onChange={(e) => setAltura (e.target.value)} />
           </p>
           <p>
-            <input type="button" value="Exercicio 4" />
+            <input type="button" value="Exercicio 4" 
+            onClick={calcular}/>
+            <b> <br></br>
+              a area do triangulo é: {resultado}
+            </b>
           </p>
           <a href="/">Voltar</a>
         </form>

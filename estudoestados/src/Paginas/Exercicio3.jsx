@@ -1,5 +1,5 @@
 import { useState } from "react";
-export default function Exercicio4()
+export default function Exercicio3()
  {
   const[valor, setValor] =useState();
   const [taxa, setTaxa] = useState();
@@ -16,7 +16,7 @@ export default function Exercicio4()
   
   return (
     <div>
-      <h1>Exercicio 4 </h1>
+      <h1>Exercicio 3 </h1>
 
       <div className="conteudo">
 
