@@ -1,15 +1,16 @@
 import { useState } from "react";
-export default function Exercicio9()
+export default function Cimulado()
  {
   const[valor, setValor] =useState();
-  const [quant, setQuant] = useState();
+  const [taxa, setTaxa] = useState();
+  const [tempo, setTempo] = useState();
   const[resultado, setResultado] =useState();
 
   function calcular ()
   {
-    let salario= ((Number(valor)) *  quant * 30) ;
+    let  mon= ((Number(valor)) * 1 + taxa * tempo) ;
     
-setResultado(salario
+setResultado(mon
 );
   }
 
@@ -24,17 +25,22 @@ setResultado(salario
         <form>
 
           <p>
-           Valor da Hora:<br />
+           Valor:<br />
             <input type="text" value={valor}
             onChange={(e) => setValor (e.target.value)}/>
           </p>
 
           <p>
-           Hora trabalhada:<br />
-            <input type="text" value={quant}
-            onChange={(e) => setQuant (e.target.value)}/>
+           Taxa:<br />
+            <input type="text" value={taxa}
+            onChange={(e) => setTaxa (e.target.value)}/>
           </p>
-          
+          <p>
+
+            Tempo:<br />
+            <input type="text"   value={tempo}
+            onChange={(e) => setTempo (e.target.value)}/>
+          </p>
           
           <p>
             <input type="button" value="calcular" 
@@ -42,7 +48,7 @@ setResultado(salario
           </p>
 
         <b>
-        seu salario é de  {resultado}
+        seu montante  é {resultado}
         </b>
         <br></br>
 

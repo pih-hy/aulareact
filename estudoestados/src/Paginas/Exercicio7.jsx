@@ -10,7 +10,8 @@ export default function Exercicio7()
   {
     let  notaF= ((Number(nota1)) * nota2 * nota3)/3 ;
     
-
+setResultado(notaF
+);
   }
 
   
@@ -20,13 +21,13 @@ export default function Exercicio7()
 
       <div className="conteudo">
 
-        <h3>Produto</h3>
+        <h3>Nota</h3>
         <form>
 
           <p>
            nota 1:<br />
             <input type="text" value={nota1}
-            onChange={(e) => setNota3 (e.target.value)}/>
+            onChange={(e) => setNota1 (e.target.value)}/>
           </p>
 
           <p>
